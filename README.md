@@ -17,5 +17,5 @@ pip3 install pandas openpyxl
 
 ## How to use
 ```
-python ShodAPInspector.py
+Shodantoexcel.py
 ```
